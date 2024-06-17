@@ -18,8 +18,6 @@ function findContentChildren(g, s) {
   return child; // The number of content children
 }
 
-// Example 1
+// Example usage
 console.log(findContentChildren([1, 2, 3], [1, 1])); // Output: 1
-
-// Example 2
 console.log(findContentChildren([1, 2], [1, 2, 3])); // Output: 2
