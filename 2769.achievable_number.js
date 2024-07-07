@@ -3,7 +3,7 @@ function maxAchievableNumber(num, t) {
   return num + 2 * t;
 }
 
-// Example:
+// Example Usage:
 let num1 = 4;
 let t1 = 1;
 console.log(maxAchievableNumber(num1, t1)); // Output: 6
@@ -11,3 +11,4 @@ console.log(maxAchievableNumber(num1, t1)); // Output: 6
 let num2 = 3;
 let t2 = 2;
 console.log(maxAchievableNumber(num2, t2)); // Output: 7
+ 
